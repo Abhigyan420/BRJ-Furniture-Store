@@ -1,0 +1,80 @@
+
+----------------------------------------------------------------------------------------------------
+***BRJ FURNITURE STORE***
+  ---- -Thankot, Kathmandu-----
+-----------------------------------------------------------------
+Date: 2024-10-12
+Transaction Type: Order
+--------------------------------------------------------------
+Employee: Abhigyan
+ID: 3
+Manufacturer: Achham furniture
+Product: Sleeper Sofa
+Quantity: 25
+----------------------------------------------------------------
+Amount to Pay: $5000.00
+----------------------------------------------------------------
+--------------------Thank You for choosing us. Please visit again.--------------------
+
+----------------------------------------------------------------------------------------------------
+***BRJ FURNITURE STORE***
+  ---- -Thankot, Kathmandu-----
+-----------------------------------------------------------------
+Date: 2024-10-12
+Transaction Type: Sale
+--------------------------------------------------------------
+Customer: Swasti
+ID: 3
+Manufacturer: Achham furniture
+Product: Sleeper Sofa
+Quantity: 25
+Price per Unit: $200.00
+Total Amount: $5000.00
+Shipping Cost: $50.00
+----------------------------------------------------------------
+Total Amount to Pay: $5050.00
+----------------------------------------------------------------
+Goods once sold will not be returned.
+Exchange within 7 days with the receipt except Saturday.
+----------------------------------------------------------------
+--------------------Thank You for choosing us. Please visit again.--------------------
+
+----------------------------------------------------------------------------------------------------
+***BRJ FURNITURE STORE***
+  ---- -Thankot, Kathmandu-----
+-----------------------------------------------------------------
+Date: 2024-10-12
+Transaction Type: Order
+--------------------------------------------------------------
+Employee: Abhigyan
+ID: 5
+Manufacturer: Kohler Co.
+Product: Armchair
+Quantity: 7
+----------------------------------------------------------------
+Amount to Pay: $1050.00
+----------------------------------------------------------------
+--------------------Thank You for choosing us. Please visit again.--------------------
+
+----------------------------------------------------------------------------------------------------
+***BRJ FURNITURE STORE***
+  ---- -Thankot, Kathmandu-----
+-----------------------------------------------------------------
+Date: 2024-10-12
+Transaction Type: Sale
+--------------------------------------------------------------
+Customer: Swasti
+ID: 5
+Manufacturer: Kohler Co.
+Product: Armchair
+Quantity: 10
+Price per Unit: $150.00
+Total Amount: $1500.00
+Shipping Cost: $50.00
+----------------------------------------------------------------
+Total Amount to Pay: $1550.00
+----------------------------------------------------------------
+Goods once sold will not be returned.
+Exchange within 7 days with the receipt except Saturday.
+----------------------------------------------------------------
+--------------------Thank You for choosing us. Please visit again.--------------------
